@@ -12,3 +12,7 @@ Features:
     * Photos for dramatic effect
     * Germinated? (Y/N), Planted? (Y/N), Harvested? (Y/N)
     * Comments/Journal Entry
+
+Resources:
+  - Companion Planting Catalogue
+    * After selecting a plant, all companion plants will show up in a list.
