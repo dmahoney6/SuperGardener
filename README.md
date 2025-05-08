@@ -1,6 +1,8 @@
 # SuperGardener
 THE gardening app of the 22nd Century!
 
+*CURRENTLY UNUSABLE* -- In Development
+
 Features:
  - "Can I Garden Today?"
     * Weather Info
